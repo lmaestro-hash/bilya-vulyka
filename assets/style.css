@@ -15,3 +15,4 @@ a.card:hover{border-color:var(--amber)}.card b{display:block;color:var(--amber)}
 .note{font:14px system-ui,sans-serif;color:var(--soft);border-top:1px solid var(--line);margin-top:34px;padding-top:12px}
 footer{font:14px system-ui,sans-serif;color:var(--soft);margin-top:30px}
 @media(min-width:620px){.cards{grid-template-columns:1fr 1fr}}
+ul{padding-left:20px;margin:0 0 14px}li{margin-bottom:8px}
