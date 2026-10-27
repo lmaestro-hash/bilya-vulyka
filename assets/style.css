@@ -29,3 +29,5 @@ footer{font:14px/1.6 system-ui,sans-serif;color:var(--soft);margin-top:40px;bord
 footer a{color:var(--soft)}
 @media(min-width:700px){.tiles{grid-template-columns:repeat(3,1fr)}.cards{grid-template-columns:1fr 1fr}h1{font-size:36px}}
 
+footer .fl a{margin-right:2px}footer .fl{margin:0 0 10px}
+@media(max-width:380px){nav{font-size:13px;gap:2px 7px}}
